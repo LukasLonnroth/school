@@ -3,6 +3,8 @@
  * Created by PhpStorm.
  * User: Andrej
  * Date: 11/01/18
+ * Edited: Lukas
+ * 13/01/2018
  */
 
 $substantiv =
