@@ -1,0 +1,6 @@
+Jag har gjort denna uppgift tillsammans med Wille Strengell och bskulle säga 24 poäng eftersom vi löst
+momenten a, b, c, f, g enligt uppgiften.
+
+För att köra programmet är det bara att köra igång och följa instruktionerna. Finns åtgärder vid fel input.
+
+Endast ett spel kan finnas sparat i programmet som sparas i 'Spel.txt'. 
