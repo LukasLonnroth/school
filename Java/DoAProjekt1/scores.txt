@@ -1,10 +1,2 @@
-moi  10
-Lukas  0
-Lukas  5
-Lukas  6
-Lukas  0
-Lukas  0
-Lukas  0
-Luas  0
-Lukas  5
-Lukas  1
+Jöns  1
+Pelle  5
